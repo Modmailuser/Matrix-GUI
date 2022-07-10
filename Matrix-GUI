@@ -49,5 +49,5 @@ local Window = Library.CreateLib("Matrix", "BloodTheme")
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Modmailuser/God/main/God"))()
     end)
 
-        local Fun Stuff = Window:NewTab("Fun Stuff")
-    local Fun StuffSection = Fun Stuff:NewSection("Fun Stuff")
+        local Fun Stuff = Window:NewTab("Fun Stuff Coming Soon")
+    local Fun StuffSection = Fun Stuff:NewSection("Fun Stuff Coming Soon")
